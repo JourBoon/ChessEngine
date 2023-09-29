@@ -1,6 +1,7 @@
 {
     "python.analysis.extraPaths": [
         "./neuronalnetwork",
-        "./utils"
+        "./utils",
+        "./chessconfig"
     ]
 }

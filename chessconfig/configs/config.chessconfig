@@ -1,0 +1,5 @@
+board_size:
+  columns: 8
+  rows: 8
+difficulty_level: medium
+ia_name: SwannTropFort
