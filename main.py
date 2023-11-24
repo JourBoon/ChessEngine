@@ -10,7 +10,7 @@ import time
 
 log = logger.Logger()
 logLevel = logger.LogLevel
-log.log("Starting ChessEngine IA made by JourBoon", logLevel.INFO)
+log.log("Starting ChessEngine IA made by JourBoon and Daryun08", logLevel.INFO)
 for i in range (0,5):  
     b = "Loading" + "." * i
     print (b, end="\r")
